@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+
+  background-color: rgb(75 85 99);
+}
+#root{
+  width: 100%;
+  height: auto;
+  background-color: rgb(75 85 99);
+}
